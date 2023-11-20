@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "1st post",
+      "datetime": "July 16, 2021 11:36:09 AM",
+      "body": "1 Lorem ipsum dolor sit amet, consecctetur"
+    },
+    {
+      "id": 2,
+      "title": "2nd post",
+      "datetime": "August 06, 2023 1:47:37 PM",
+      "body": "2 Lorem ipsum dolor sit amet, consecctetur"
+    },
+    {
+      "id": 3,
+      "title": "3rd Post",
+      "datetime": "August 06, 2023 7:56:52 PM",
+      "body": "3 post was meet the porblem"
+    }
+  ]
+}

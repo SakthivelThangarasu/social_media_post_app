@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "1st post",
+      "datetime": "July 16, 2021 11:36:09 AM",
+      "body": "1 Lorem ipsum dolor sit amet, consecctetur"
+    },
+    {
+      "id": 2,
+      "title": "2nd post",
+      "datetime": "July 17, 2021 11:41:39 AM",
+      "body": "2 Lorem ipsum dolor sit amet, consecctetur"
+    },
+    {
+      "id": 3,
+      "title": "3rd post",
+      "datetime": "July 18, 2021 11:17:40 AM",
+      "body": "3 Lorem ipsum dolor sit amet, consecctetur"
+    },
+    {
+      "id": 4,
+      "title": "4th post",
+      "datetime": "July 19, 2021 11:37:12 AM",
+      "body": "4 Lorem ipsum dolor sit amet, consecctetur"
+    }
+  ]
+}
